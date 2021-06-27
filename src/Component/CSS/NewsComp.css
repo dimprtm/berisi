@@ -1,0 +1,13 @@
+.desc-text {
+    word-wrap: break-word;
+}
+#card{
+    height: 500px;
+    background-color: #2E343B;
+}
+/* #card a:hover{
+    
+} */
+.news-comp {
+    top: 14vh;
+}
